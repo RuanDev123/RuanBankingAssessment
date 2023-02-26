@@ -1,0 +1,7 @@
+C:\Users\ruan\Desktop\Test Cases\Ruan Test Cases\AcmeBankAccountsAssessment\AcmeBankAccountsAssessment\bin\Debug\AcmeBankAccountsAssessment.exe.config
+C:\Users\ruan\Desktop\Test Cases\Ruan Test Cases\AcmeBankAccountsAssessment\AcmeBankAccountsAssessment\bin\Debug\AcmeBankAccountsAssessment.exe
+C:\Users\ruan\Desktop\Test Cases\Ruan Test Cases\AcmeBankAccountsAssessment\AcmeBankAccountsAssessment\bin\Debug\AcmeBankAccountsAssessment.pdb
+C:\Users\ruan\Desktop\Test Cases\Ruan Test Cases\AcmeBankAccountsAssessment\AcmeBankAccountsAssessment\obj\Debug\AcmeBankAccountsAssessment.csproj.AssemblyReference.cache
+C:\Users\ruan\Desktop\Test Cases\Ruan Test Cases\AcmeBankAccountsAssessment\AcmeBankAccountsAssessment\obj\Debug\AcmeBankAccountsAssessment.csproj.CoreCompileInputs.cache
+C:\Users\ruan\Desktop\Test Cases\Ruan Test Cases\AcmeBankAccountsAssessment\AcmeBankAccountsAssessment\obj\Debug\AcmeBankAccountsAssessment.exe
+C:\Users\ruan\Desktop\Test Cases\Ruan Test Cases\AcmeBankAccountsAssessment\AcmeBankAccountsAssessment\obj\Debug\AcmeBankAccountsAssessment.pdb
